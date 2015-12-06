@@ -1,5 +1,6 @@
 //BASE SETUP
 //================================
+//I'm adding some notes here to test GIT 1:08pm Sunday Dec, 6 2015
 
 //CALL THE PACKAGES --------------
 var User = require('./app/models/user.js');
